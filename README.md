@@ -1,2 +1,2 @@
 # omu-demo
-this is a beggining code as a begginer
+this is a beggining code as a begginer.
